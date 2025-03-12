@@ -9,9 +9,9 @@ This repository contains the official implementation of algorithms proposed in t
 - **Online Instructor Algorithm**: Adaptive online training framework for dynamic shop floor environments.
 - **Benchmark Models**:
   - LSTM
-  - Deep Factors:doi={https://doi.org/10.48550/arXiv.1905.12417}
+  - Deep Factors:doi=https://doi.org/10.48550/arXiv.1905.12417
   - Static probability
-  - Dynamic probability:doi={https://doi.org/10.1080/00207543.2022.2051088}
+  - Dynamic probability:doi=https://doi.org/10.1080/00207543.2022.2051088
 - Modular implementation with PyTorch
 
 ## Training
