@@ -17,8 +17,8 @@ This repository contains the official implementation of algorithms proposed in t
 ## Training
 Configure training mode using arguments in main.py
 - **Arguments**:
-  - p: Enable pre-training mode
-  - o: Enable online-training mode
+  - -p: Enable pre-training mode
+  - -o: Enable online-training mode
 
 ## Testing
 Evaluate models using model_test.py
