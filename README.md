@@ -5,8 +5,8 @@
 This repository contains the official implementation of algorithms proposed in the paper **"A modeling and adaptive evolution method for simulation parameters of digital twin shop floor"** published in *Robotics and Computer-Integrated Manufacturing*. If this repository aids your research, please cite our work (see [Citation](#citation)).
 
 ## Features
-- **Sequential Regression Variational Autoencoder (SRVAE)**: A novel time series forecasting model for digital twin parameter evolution.
-- **Online Instructor Algorithm**: Adaptive online training framework for dynamic shop floor environments.
+- **Sequential Regression Variational Autoencoder (SRVAE)**: A novel time series forecasting model.
+- **Online Instructor Algorithm**: An online learning algorithm for machine learning.
 - **Benchmark Models**:
   - LSTM
   - Deep Factors:doi=https://doi.org/10.48550/arXiv.1905.12417
@@ -15,22 +15,13 @@ This repository contains the official implementation of algorithms proposed in t
 - Modular implementation with PyTorch
 
 ## Training
-Configure training mode using command-line arguments in main.py
+Configure training mode using arguments in main.py
 Arguments:
 -p: Enable pre-training mode
--o: Enable online adaptation mode
+-o: Enable online-training mode
 
 ## Testing
 Evaluate models using model_test.py
 
 ## Citation
-If you use this codebase in your research, please cite our original paper:
-@article{yourcitationkey,
-  title={A modeling and adaptive evolution method for simulation parameters of digital twin shop floor},
-  author={Author1, Author2, ...},
-  journal={Robotics and Computer-Integrated Manufacturing},
-  year={2023},
-  volume={xx},
-  pages={xxx--xxx},
-  doi={10.1016/j.rcim.xxxx.xxxxxx}
-}
+If you use this codebase in your research, please cite our original paper:doi=https://doi.org/xxxx
