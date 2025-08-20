@@ -24,4 +24,4 @@ Configure training mode using arguments in main.py
 Evaluate models using model_test.py
 
 ## Citation
-If you use this codebase in your research, please cite our original paper:doi=https://doi.org/xxxx
+If you use this codebase in your research, please cite our original paper:doi=https://10.1016/j.rcim.2025.103090
